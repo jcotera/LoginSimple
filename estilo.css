@@ -1,0 +1,25 @@
+#boton{
+	border-radius:40px;
+	background-color:#ba9d7d;
+	box-shadow: 4px 4px 10px #000
+}
+
+#centrar{
+	text-align: center;
+}
+
+button{
+	text-decoration: none;
+	border-color: #ba9d7d;
+}
+
+a{
+	text-decoration: 
+}
+
+.sinfondo{
+	background: none;
+	border-color: #fff;
+	border: 1.5px solid;
+	color: #fff;
+}
